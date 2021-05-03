@@ -1,9 +1,10 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Compartilhando estado entre componentes com ContextAPI
+# Criando um Blog com DatoCMS e Gatsby
 
-Compartilhar estado no React já foi pesadelo para muitos e muitas devs!
-Assim, nesse video, nós vamos compartilhar estado entre componentes React, utilizando ContextAPI e ver como esta tarefa se torna bem mais simples!
+Como dev, as vezes a gente tem vontade de documentar processos, ferramentas e as dicas de carreira. Com o passar do tempo, isso vai ajudando outras pessoas que estão neste mesmo momento, ajudando nos processos seletivos e mapeando toda a nossa trajetória.
+
+Comn um processo simples, agora você pode criar o seu blog e customizar da forma que quiser.
 
 ## Expert
 
